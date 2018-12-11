@@ -1,3 +1,7 @@
 body {background-color: white;}
-h1   {color: black;}
+h1   {
+  font-family: simplifica;
+  font-size: 300%;
+  color: navy;
+}
 p    {color: black;}
