@@ -6,6 +6,19 @@ body {
   background-color: RebeccaPurple;
   height: 20%;
 }
+#about{
+  width: 60%;
+}
+#ben{
+  float: left;
+  width: 30%;
+  padding: 15px;
+}
+#sam{
+  margin-left: 30%;
+  width: 30%;
+  padding: 15px;
+}
 #benpic{
   border-radius:25px;
 }
