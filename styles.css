@@ -15,7 +15,10 @@ p    {
   font-family: Verdana;
   font-style: italic;
 }
-a    {text-decoration: none;}
+a    {
+  text-decoration: none;
+  font-color: #6500B2;
+}
 ul {
   font-family: Verdana;
   font-size: 50%
