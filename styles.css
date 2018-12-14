@@ -3,7 +3,7 @@ body {
   margin-left: 15%; 
 }
 head {
-  background-color: #6500B2;
+  background-color: RebeccaPurple;
 }
 h1   {
   font-family: Verdana;
@@ -17,7 +17,7 @@ p    {
 }
 a    {
   text-decoration: none;
-  font-color: #6500B2;
+  font-color: RebeccaPurple;
 }
 ul {
   font-family: Verdana;
