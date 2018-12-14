@@ -9,7 +9,7 @@ h1   {
 }
 p    {color: black;}
 a    {text-decoration: none;}
-sidebar {
+"sidebar" {
   list-style-type: none;
   margin: 0;
   padding: 0;
