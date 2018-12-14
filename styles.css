@@ -1,6 +1,6 @@
 body {
   background-color: white;
-  margin-left: 5%; 
+  margin-left: 10%; 
 }
 h1   {
   font-family: Verdana;
@@ -13,7 +13,7 @@ ul {
   list-style-type: none;
   margin-left: -50px;
   padding: 0;
-  width: 5%;
+  width: 10%;
   background-color: transparent;
   height: 100%; /* Full height */
   position: fixed; /* Make it stick, even on scroll */
