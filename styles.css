@@ -4,6 +4,7 @@ body {
 }
 #heading{
   background-color: RebeccaPurple;
+  height: 20%;
 }
 h1   {
   font-family: Verdana;
@@ -25,8 +26,8 @@ ul {
   list-style-type: none;
   margin-left: -200px;
   padding: 0;
-  width: 15%;
-  background-color: transparent;
+  width: 13%;
+  background-color: gainsboro;
   height: 100%; /* Full height */
   position: fixed; /* Make it stick, even on scroll */
   overflow: auto; /* Enable scrolling if the sidenav has too much content */
