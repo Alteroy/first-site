@@ -11,7 +11,7 @@ body {
 }
 #ben{
   float: left;
-  width: 30%;
+  width: 50%;
   padding: 15px;
 }
 #sam{
@@ -20,6 +20,9 @@ body {
 }
 #benpic{
   border-radius:25px;
+}
+#sampic{
+ border-radius:25px; 
 }
 h1   {
   font-family: Verdana;
