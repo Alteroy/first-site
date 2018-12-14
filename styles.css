@@ -6,6 +6,9 @@ body {
   background-color: RebeccaPurple;
   height: 20%;
 }
+#benpic{
+  border-radius:25px;
+}
 h1   {
   font-family: Verdana;
   font-size: 300%;
