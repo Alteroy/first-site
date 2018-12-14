@@ -2,12 +2,19 @@ body {
   background-color: white;
   margin-left: 15%; 
 }
+head {
+  background-color: #6500B2;
+}
 h1   {
   font-family: Verdana;
   font-size: 250%;
-  color: navy;
+  color: white;
 }
-p    {color: black;}
+p    {
+  color: white;
+  font-family: Verdana;
+  font-style: italic;
+}
 a    {text-decoration: none;}
 ul {
   font-family: Verdana;
