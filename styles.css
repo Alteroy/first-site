@@ -3,12 +3,12 @@ body {
   margin-left: 15%; 
 }
 head {
-  background-color: RebeccaPurple;
+  background-color: purple;
 }
 h1   {
   font-family: Verdana;
   font-size: 250%;
-  color: white;
+  color: RebeccaPurple;
 }
 p    {
   color: white;
