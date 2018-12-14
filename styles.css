@@ -10,8 +10,10 @@ h1   {
 p    {color: black;}
 a    {text-decoration: none;}
 ul {
+  font-family: Verdana;
+  font-size: 50%
   list-style-type: none;
-  margin-left: -100px;
+  margin-left: -200px;
   padding: 0;
   width: 15%;
   background-color: transparent;
