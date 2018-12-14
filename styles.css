@@ -2,16 +2,16 @@ body {
   background-color: white;
   margin-left: 15%; 
 }
-head {
-  background-color: purple;
+div #heading{
+  background-color: RebeccaPurple;
 }
 h1   {
   font-family: Verdana;
   font-size: 250%;
-  color: RebeccaPurple;
+  color: Cornsilk;
 }
 p    {
-  color: white;
+  color: black;
   font-family: Verdana;
   font-style: italic;
 }
