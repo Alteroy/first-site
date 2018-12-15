@@ -50,7 +50,7 @@ ul {
   font-family: Verdana;
   font-size: 50%
   list-style-type: none;
-  margin-right: 100%;
+  margin-left: -200px;
   padding: 0;
   width: 13%;
   background-color: gainsboro;
