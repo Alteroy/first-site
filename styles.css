@@ -29,6 +29,14 @@ h1   {
   font-size: 300%;
   color: Cornsilk;
 }
+h2 {
+ font-family: Verdana;
+  color: RebeccaPurple;
+}
+h3 {
+ font-family: Verdana;
+  color: RebeccaPurple
+}
 p    {
   color: black;
   font-family: Verdana;
